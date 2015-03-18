@@ -1,0 +1,7 @@
+As a gamer
+So I can make a move
+I want to be able to mark a cell
+
+As a gamer
+So I can ________
+I want to be able to_______
