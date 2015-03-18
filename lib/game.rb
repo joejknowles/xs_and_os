@@ -7,5 +7,6 @@ class Game
   end
 
   def start
+    puts 'hello'
   end
 end
